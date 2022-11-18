@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Hey Matt!
 
 ## Things I've seen
